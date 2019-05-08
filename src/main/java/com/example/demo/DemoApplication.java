@@ -11,7 +11,7 @@ public class DemoApplication {
 		int i=5*5*5*5*5;
 		System.out.println("输出：\n \n \n \n);
 		System.out.println("2019 / 05 /08 正在测试Build ------------------------- 等 = "+i); 
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args); 
 	}
 
 }
